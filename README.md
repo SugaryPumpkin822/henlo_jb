@@ -10,8 +10,13 @@ visit ```jailbreak.psp2.dev``` using the Playstation Vita/TV web browser
 
 ## this project is currently in the beta phase
 focus1: bootstrap stability and overall functionality
+
 focus2: add capabilites for lower firmware all the way down to the lowest version existing on a psVita
+
 focus3: add a payload to install apps that u pick from a checkbox
+
 focus4: add a payload to lower firmware
+
 focus5: make the payloads better and test them over and over
+
 focus6: add a payload to copy the operating system over a webserver that u pick to download and export to your pc as a iso
